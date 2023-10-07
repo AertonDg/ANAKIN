@@ -1,10 +1,24 @@
 body{
-    background-image: url('https://socientifica.com.br/wp-content/uploads/2018/01/estrelas-1536x768.jpg.webp');
-    background-size: cover;
+    background-color: black;
 }
+.tit{
+    text-shadow: 5px 5px 5px rgb(0, 38, 255);
+}
+.tit2{
+    text-shadow: 5px 5px 5px rgb(0, 255, 21);
+    text-decoration: none;
+
+}
+
+
 .anik{
     color: white;
+   
 
+}
+.container{
+    display: flex;
+    
 }
 .luke{
     color: white;
@@ -15,6 +29,25 @@ body{
 }
 .hist{
     color: white;
-    filter: drop-shadow(color rgb(153, 211, 153));
+    font-size: 16px;
    
+}
+.mestl{
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 5px 5px rgb(0, 218, 18);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+.dt{
+    color: white;
+    text-shadow: 5px 5px 5px rgb(255, 5, 5);
+
+
+}
+.jedi1{
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+}
+.jedi1 img{
+    margin-left: 10px;
 }

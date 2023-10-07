@@ -2,6 +2,7 @@
     height: 360px;
     background-repeat: no-repeat;
     background-image: url('../img/capa.jpg');
+    
 }
 .navbar{
     background-color: rgb(112, 128, 144);
@@ -46,3 +47,4 @@
     height: 900px;
     width: 898px;
 }
+
